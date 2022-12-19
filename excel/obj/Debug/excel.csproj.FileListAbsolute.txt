@@ -1,0 +1,13 @@
+C:\Users\Turan\source\repos\excel\excel\bin\Debug\excel.exe.config
+C:\Users\Turan\source\repos\excel\excel\bin\Debug\excel.exe
+C:\Users\Turan\source\repos\excel\excel\bin\Debug\excel.pdb
+C:\Users\Turan\source\repos\excel\excel\bin\Debug\WebDriver.dll
+C:\Users\Turan\source\repos\excel\excel\obj\Debug\excel.csprojAssemblyReference.cache
+C:\Users\Turan\source\repos\excel\excel\obj\Debug\excel.csproj.CoreCompileInputs.cache
+C:\Users\Turan\source\repos\excel\excel\obj\Debug\excel.csproj.CopyComplete
+C:\Users\Turan\source\repos\excel\excel\obj\Debug\excel.exe
+C:\Users\Turan\source\repos\excel\excel\obj\Debug\excel.pdb
+C:\Users\Turan\source\repos\excel\excel\bin\Debug\ExcelDataReader.dll
+C:\Users\Turan\source\repos\excel\excel\bin\Debug\ExcelDataReader.pdb
+C:\Users\Turan\source\repos\excel\excel\bin\Debug\ExcelDataReader.xml
+C:\Users\Turan\source\repos\excel\excel\bin\Debug\SeleniumExtras.WaitHelpers.dll
